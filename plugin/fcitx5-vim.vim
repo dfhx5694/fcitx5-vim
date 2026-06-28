@@ -1,5 +1,6 @@
 vim9script
 # fcitx5-vim [MIT]
+# GetLatestVimScripts: 6182 1 :AutoInstall: fcitx5-vim.vim
 
 if get(g:, 'loaded_fcitx5_vim', false) | finish | endif
 g:loaded_fcitx5_vim = true
